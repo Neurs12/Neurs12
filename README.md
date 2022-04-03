@@ -4,4 +4,9 @@
 - 😐 Make projects that no one will ever use.
 - 👨‍💻 My main language is Python, but I'm also learning C/C++, Node.js, HTML/CSS/JS.
 - 🧠 I'm dumb.
-### Connect with me (Or I'll do it first 🙂):
+### Socials (Say hi!):
+- Discord: Neurs ツ#1111
+
+That's all, I'll update later :)
+
+![Neurs's Github stats](https://github-readme-stats.vercel.app/api?username=Neurs1&theme=github_dark)
