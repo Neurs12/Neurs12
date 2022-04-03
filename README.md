@@ -1,6 +1,8 @@
 <p align="center">
 <img src = "https://raw.githubusercontent.com/Neurs1/Neurs1/main/title.svg">
 </p>
+
+# 
   
 ### I'm a general developer:
 
