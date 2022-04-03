@@ -1,8 +1,7 @@
-
 <svg xmlns="http://www.w3.org/2000/svg" height="30" width="200">
   <linearGradient id="gr-simple" x1="0" y1="0" x2="100%" y2="100%">
-    <stop stop-color="rgba(34,193,195,1)" offset="10%"/>
-    <stop stop-color="rgba(253,187,45,1)" offset="90%"/>
+    <stop stop-color="rgba(34,193,195,1)" offset="0%"/>
+    <stop stop-color="rgba(253,187,45,1)" offset="100%"/>
   </linearGradient>
-<text x="0" y="15" style="fill: url(#gr-simple);">I love SVG!</text>
+  <text x="0" y="15" style="fill: url(#gr-simple);">I love SVG!</text>
 </svg>
