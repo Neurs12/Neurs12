@@ -3,5 +3,5 @@
     <stop stop-color="rgba(34,193,195,1)" offset="0%"/>
     <stop stop-color="rgba(253,187,45,1)" offset="100%"/>
   </linearGradient>
-  <text x="0" y="15" font-family="Segoe UI" font-size="32px" fill="url(#gradient)">Hi there, I'm Neurs. 👋</text>
+  <text x="0" y="15" align="center" font-family="Segoe UI" font-size="32px" fill="url(#gradient)">Hi there, I'm Neurs. 👋</text>
 </svg>
