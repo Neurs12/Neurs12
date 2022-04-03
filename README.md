@@ -8,5 +8,6 @@
 - Discord: Neurs ツ#1111
 
 That's all, I'll update later :)
-
-![Neurs's Github stats](https://github-readme-stats.vercel.app/api?username=Neurs1&theme=github_dark)
+<p align="center">
+<img src=https://github-readme-stats.vercel.app/api?username=Neurs1&theme=github_dark>
+</p>
