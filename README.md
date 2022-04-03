@@ -9,3 +9,7 @@
 
 That's all, I'll update later :)
 
+<p align="center">
+  <img src=https://github-readme-stats.vercel.app/api?username=Neurs1&theme=github_dark>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Neurs1&layout=compact&theme=github_dark>
+</p>
