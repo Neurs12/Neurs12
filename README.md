@@ -12,11 +12,13 @@
 
 - 🎮 Play games, but I don't like FPS games.
 
-- 🧠 Being dumb at the time.
+- 🧠 Being dumb all the time.
 
-### Contact me (Or I'll do it first 🙂):
+### Socials:
 
 - Discord: Neurs ツ#1111
+
+- Replit: [Neurs12](https://replit.com/@Neurs12)
 
 <p align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=Neurs1&theme=github_dark>
