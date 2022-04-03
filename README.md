@@ -1,6 +1,6 @@
 ## Hi there, I'm Neurs.
 ### Just a young, general developer:
-- I'm from Vietnam!
+- Come from Vietnam! 🇻🇳
 - 📖 Loves to learn new things.
 - 😐 Make projects that no one will ever use.
 - 👨‍💻 My main language is Python, but I'm also learning C/C++, Node.js, HTML/CSS/JS.
