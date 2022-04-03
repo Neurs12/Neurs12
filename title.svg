@@ -4,5 +4,5 @@
     <stop stop-color="hsl(50, 100%, 70%)" offset="10%"/>
     <stop stop-color="hsl(320, 100%, 50%)" offset="90%"/>
   </linearGradient>
-<text x="0" y="15" style="color: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);">I love SVG!</text>
+<text fill: url(#gr-simple); x="0" y="15" style="color: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);">I love SVG!</text>
 </svg>
