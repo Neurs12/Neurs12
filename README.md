@@ -14,7 +14,7 @@
 
 - 👨‍💻 Main language is Python, but also learning C/C++, Node.js, HTML/CSS/JS.
 
-- 🎮 Play games, but I don't like FPS games.
+- 🎮 I play games, my favourite one is Minecraft, and I don't like FPS games.
 
 - 🧠 Being dumb all the time.
 
