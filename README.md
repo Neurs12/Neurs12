@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 <img src = "https://raw.githubusercontent.com/Neurs1/Neurs1/main/title.svg">
-</p>
+</div>
 
 # 
   
@@ -24,10 +24,10 @@
 
 - Replit: [Neurs12](https://replit.com/@Neurs12)
 
-<p align="center">
+<div align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=Neurs12&theme=github_dark>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Neurs12&layout=compact&theme=github_dark>
-</p>
+</div>
 
 ### IGNs:
 
