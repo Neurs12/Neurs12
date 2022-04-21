@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="42" width="335">
+  <linearGradient id="gradient" x1="0" y1="0" x2="100%" y2="100%">
+    <stop stop-color="rgba(34,193,195,1)" offset="0%"/>
+    <stop stop-color="rgba(253,187,45,1)" offset="100%"/>
+  </linearGradient>
+  <text x="0" y="32" font-family="Segoe UI" font-weight="600" font-size="32px" fill="url(#gradient)">Chào, tôi là Trung! 👋</text>
+</svg>
