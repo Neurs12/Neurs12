@@ -12,7 +12,7 @@
 
 - 😐 Make projects that no one will ever use.
 
-- 👨‍💻 Main language is Python, but also learning C/C++, Node.js, HTML/CSS/JS.
+- 👨‍💻 Main language is Python, other languages are C/C++, Node.js and HTML/CSS/JS.
 
 - 🎮 I play games, my favourite one is Minecraft, and I don't like FPS games.
 
