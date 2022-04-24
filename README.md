@@ -14,6 +14,8 @@
 
 - 👨‍💻 Main language is Python, other languages are C/C++, Node.js and HTML/CSS/JS.
 
+- 💻 Maybe a full-stack developer.
+
 - 🎮 I play games, my favourite one is Minecraft, and I don't like FPS games.
 
 - 🧠 Being dumb all the time.
