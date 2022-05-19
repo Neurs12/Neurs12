@@ -22,7 +22,7 @@
 
 ### Socials:
 
-- Discord: Neurs ツ#1111
+- Discord: Neurs ツ#6947
 
 - Replit: [Neurs12](https://replit.com/@Neurs12)
 
