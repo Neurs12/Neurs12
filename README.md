@@ -12,7 +12,7 @@
 
 - 😐 Make projects that no one will ever use.
 
-- 👨‍💻 Main language is Python, other languages are C/C++, Node.js and HTML/CSS/JS.
+- 👨‍💻 Main language is Python, other languages are C/C++, Node.js and HTML/CSS/JS (learning Dart & Flutter).
 
 - 💻 Maybe a full-stack developer.
 
