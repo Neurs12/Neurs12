@@ -1,9 +1,9 @@
-# Hi there! 👋
+## Hi there! 👋
 
 I am a self-taught full-stack software engineer who thoroughly enjoys crafting user interfaces and server-side components through coding, with utilizing a diverse range of frameworks and programming languages in mind.
 
 - 🔭 I'm currently working on:
-  - [PoruCat](https://github.com/PoruCat) `(Project lead, fullstack, design, ideas)`
+  - [PoruCat](https://github.com/PoruCat) `(Project lead, fullstack, backend solo, design, ideas)`
   - [OlyLunar](https://github.com/OlyLunar) `(Solo project)`
   - [E14](https://github.com/E14VN) `(Solo project)`
 - 📨 Contact me via Discord: `neurs`.
