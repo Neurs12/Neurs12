@@ -7,7 +7,7 @@ I am a self-taught full-stack software engineer who thoroughly enjoys crafting u
   - [E14](https://github.com/E14VN) `(Solo project)`
 - 📨 Contact me via Discord: `neurs`.
 
-<sub><sup>haha funni triangle</sup></sub>
+<sub><sup>ohno triangle gone</sup></sub>
 <h3 align=center>Frontend</h3>
 
 <div align=center>
