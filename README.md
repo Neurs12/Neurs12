@@ -19,7 +19,7 @@ I am a self-taught full-stack software engineer who thoroughly enjoys crafting u
   <img src="https://sili-icons.neursdev.tk/icons?i=python,nodejs,typescript,dart,kotlin,php,bash,cs,java"/>
 </div>
 <div align=center>
-  <img src="https://sili-icons.neursdev.tk/icons?i=sqlite,mongo,flask,firebase,vite,socketio,fastapi,express,selenium"/>
+  <img src="https://sili-icons.neursdev.tk/icons?i=sqlite,redis,mongo,flask,firebase,vite,socketio,fastapi,express,selenium"/>
 </div>
 
 <p align=center>And many more...</p>
