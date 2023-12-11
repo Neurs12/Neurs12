@@ -4,8 +4,9 @@ I am a self-taught full-stack software engineer who thoroughly enjoys crafting u
 
 - 🔭 I'm currently working on:
   - Portfolio `(Planned)`.
-  - [OlyLunar](https://github.com/OlyLunar) `(Solo project)`
-  - [E14](https://github.com/E14VN) `(Solo project)`
+  - OpenTest `Planned`
+  - [OlyLunar](https://github.com/OlyLunar) `Solo project`
+  - [E14](https://github.com/E14VN) `Solo project`
 - 📨 Contact me via Discord: `neurs`.
 
 <sub><sup>ohno triangle gone</sup></sub>
