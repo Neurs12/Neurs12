@@ -3,11 +3,11 @@
 I am a self-taught full-stack software engineer who thoroughly enjoys crafting user interfaces and server-side components through coding, with utilizing a diverse range of frameworks and programming languages in mind.
 
 - 🔭 I'm currently working on:
-  - Portfolio `(Planned)`.
+  - Portfolio `Planned`
   - OpenTest `Planned`
   - [OlyLunar](https://github.com/OlyLunar) `Solo project`
   - [E14](https://github.com/E14VN) `Solo project`
-- 📨 Contact me via Discord: `neurs`.
+- 📨 Contact me via Discord: `neurs`
 
 <sub><sup>ohno triangle gone</sup></sub>
 <h3 align=center>Frontend</h3>
