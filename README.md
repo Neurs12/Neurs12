@@ -4,7 +4,7 @@ I am a self-taught full-stack software engineer with 7 years of programming expe
 
 `In short: Funni guy who make apps and stuff from passion, with passion.`
 
-Most of my repos on here are documented on how it works and why did I decided to make that.
+Most of my repos on here are documented on how it works and why did I decided to make that. So be sure to check it out!
 
 - 🔭 I'm currently working on:
   - Portfolio `Planned`
