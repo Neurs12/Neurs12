@@ -8,7 +8,7 @@ Most of my repos on here are documented on how it works and why did I decided to
 
 - 🔭 I'm currently working on:
   - Portfolio `Planned`
-  - OpenTest `Planned`
+  - [OpenTest](https://github.com/OpenTest) `Started`
   - [OlyLunar](https://github.com/OlyLunar) `Solo project`
   - [E14](https://github.com/E14VN) `Solo project`
 - 📨 Contact me via Discord: `neurs`
