@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am a self-taught full-stack software engineer with 7 years of programming experience who thoroughly enjoys crafting user interfaces and server-side components through coding, with utilizing a diverse range of frameworks and programming languages in mind.
+I am a self-taught full-stack programmer with 7 years of programming experience who thoroughly enjoys crafting user interfaces and server-side components through coding, with utilizing a diverse range of frameworks and programming languages in mind.
 
 `In short: Funni guy who make apps and stuff from passion, with passion.`
 
