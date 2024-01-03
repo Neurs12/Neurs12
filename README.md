@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Full-stack developer, 7 years experience, without any work experience, me love make apps.
+Full-stack developer, 7 years experience, without any work experience, *me love make apps and stuff that help people around me*.
 
 Most of my repos on here are documented on how it works and why did I decided to make that. So be sure to check it out!
 
