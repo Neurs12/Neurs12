@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a full-stack developer, 8 years of experience (2016 - 2024), without any work experience, *me love make apps and stuff that help people around me*.
+I'm a full-stack developer, 8 years of experience (2016 - 2024), without any work experience, *me love make apps and stuff that help people around me, most of the time*.
 
 Most of my repos on here are documented on how it works and why did I decided to make that. So be sure to check it out!
 
