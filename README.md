@@ -6,6 +6,7 @@ Most of my repos on here are documented on how it works and why did I decided to
 
 - 🔭 I'm currently working on:
   - Once upon a year `Started | Flutter`
+  - Fire Exinguisher `Started | React`
   - Portfolio `Planned | React`
   - Blog `Planned | HTML`
   - Casting `Planned | Java`
