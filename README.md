@@ -1,4 +1,4 @@
-## Hi there! 👋
+<img align=center alt="Upcoming project - Fire Exinguisher" src="https://github.com/Neurs12/Neurs12/assets/31346263/64a2547c-9528-4152-b875-46209b75b2c0" />
 
 I'm a full-stack developer, 8 years of experience (2016 - 2024), without any work experience, *me love make apps and stuff that help people around me, most of the time*.
 
