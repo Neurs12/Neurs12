@@ -1,7 +1,7 @@
 <img align=center src="https://github.com/Neurs12/Neurs12/assets/31346263/6e9c4bf2-b369-490e-82bb-915a796a9be7" />
 <sup><i>Upcoming project - Fire Exinguisher (Next.js, Three, Tailwind and a fun idea in mind)</i></sup>
 
-I'm a full-stack developer, 8 years of experience (2016 - ~), without any work experience, *me love make apps and stuff that help people around me, most of the time*.
+I'm a full-stack developer, 8 years of experience (2016 - ~), without any work experience, *me love make apps and stuff that help people around me, most of the time*, occasionally I also poke around hardware stuff and IoT.
 
 Most of my repos on here are documented on how it works and why did I decided to make that. So be sure to check it out!
 
