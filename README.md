@@ -6,6 +6,8 @@ I'm a full-stack developer, 8 years of experience (2016 - ~), without any work e
 Most of my repos on here are documented on how it works and why did I decided to make that. So be sure to check it out!
 
 - 🔭 I'm currently working on:
+  - NexDM `Started | C# & Flutter`
+  - Themis Forge `Planned | React`
   - Portfolio `Planned | React`
   - Blog `Planned | HTML`
   - [E14](https://github.com/E14VN) `Solo project | Flutter`
