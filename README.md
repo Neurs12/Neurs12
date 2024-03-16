@@ -11,7 +11,7 @@ Most of my repos on here are documented on how it works and why did I decided to
   - Portfolio `Planned | React`
   - Blog `Planned | HTML`
 - 😗 Unknow status:
-  - [E14](https://github.com/E14VN) `Solo project | Flutter`
+  - [E14](https://github.com/E14VN) `Solo project | Flutter & Nodejs`
 - 📨 Contact me via Discord: `neurs`
 - 📃 Resume: (I don't have one, currently working on it)
 
